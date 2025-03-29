@@ -4,13 +4,10 @@
 -Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
 **2)Build a Time Calculator Project**
-Write a function named add_time that takes in two required parameters and one optional parameter:
-
-a start time in the 12-hour clock format (ending in AM or PM)
-a duration time that indicates the number of hours and minutes
-(optional) a starting day of the week, case insensitive
-
-The function should add the duration time to the start time and return the result.
+-Write a function named add_time that takes in two required parameters and one optional parameter:
+-a start time in the 12-hour clock format (ending in AM or PM)
+-a duration time that indicates the number of hours and minutes (optional) a starting day of the week, case insensitive
+-The function should add the duration time to the start time and return the result.
 
 **3)Build a Budget App Project**
 -Complete the Category class. It should be able to instantiate objects based on different budget categories like food, clothing, and entertainment. When objects are created, they are passed in the name of the category. The class should have an instance variable called ledger that is a list. 
